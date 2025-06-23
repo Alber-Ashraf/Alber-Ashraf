@@ -20,7 +20,7 @@
 
 #### 🧠 Languages & Frameworks:
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=rest&logoColor=white)
 ![EF Core](https://img.shields.io/badge/Entity_Framework_Core-00599C?style=flat-square)
@@ -42,20 +42,27 @@
 
 #### 🧰 Architecture & Patterns:
 - ✅ Clean Architecture
+- ✅ Modular Monolith Design
 - ✅ SOLID Principles
 - ✅ Repository Pattern
 - ✅ Dependency Injection
 - ✅ DTOs / Contracts
+- ✅ CQRS (Basic)
+- ✅ Design Patterns (Factory, Singleton, etc.)
+- ✅ gRPC (Basic)
+- ✅ JWT Authentication
 
 ---
 
 ### 📚 Currently Learning
 
-- 🔁 CQRS + Mediator
+- 🔁 Advanced CQRS with MediatR
 - 🧱 Domain-Driven Design (DDD)
 - 🧩 Microservices in .NET 8
-- 🛡️ Authentication & Authorization (JWT, Identity)
+- 🛡️ Authentication & Authorization (JWT, IdentityServer)
 - 🌐 Angular (Full Stack Path)
+- 🐳 Docker for .NET Developers
+- 🧪 Unit & Integration Testing
 
 ---
 
@@ -63,6 +70,7 @@
 
 | Project | Description |
 |--------|-------------|
+| [**EG.Walks.API**](https://github.com/Alber-Ashraf/EG.Walks.API) | 🗺️ REST API for managing regions, walks, and walk difficulties using Clean Architecture, Repository Pattern, EF Core & AutoMapper |
 | [**Movies.Api**](https://github.com/Alber-Ashraf/Movies.Api) | 🧠 Clean Architecture REST API with layered SDKs, validation, Auth, and documentation |
 | [**QuickCart-MVC**](https://github.com/Alber-Ashraf/QuickCart-MVC) | 🛒 E-Commerce App using ASP.NET Core MVC, Areas, Identity, Admin Panel, and Cart System |
 
