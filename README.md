@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Alber-Ashraf&theme=tokyonight" alt="Alber-Ashraf" width="400"/>
+<img align="right" width="200" height="200" alt="Alber-Ashraf" src="https://github.com/user-attachments/assets/ad5c6bab-c13d-49d0-9f04-05b9dfcb8018" />
 
 - 🎓 **Computer Science Graduate** from Future Academy (GPA: 3.79)
 - 💻 **.NET Backend Developer** with expertise in ASP.NET Core and Clean Architecture
