@@ -2,7 +2,7 @@
 
   <p align="center">
     <a href="https://alber-ashraf.github.io">
-      <img src="assets/banner.svg" alt="Alber Ashraf – Software Engineer" width="100%"/>
+      <img src="banner.svg" alt="Alber Ashraf – Software Engineer" width="100%"/>
     </a>
   </p>
   <a href="https://alber-ashraf.github.io">
