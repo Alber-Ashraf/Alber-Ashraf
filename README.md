@@ -1,9 +1,10 @@
 <div align="center">
 
-  <a href="https://alber-ashraf.github.io">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070E,50:1E1B4B,100:06B6D4&height=190&section=header&text=Alber%20Ashraf&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Systems%20%26%20Enterprise%20Architecture&descFontSize=16&descAlignY=62&descColor=22D3EE" alt="Alber Ashraf – Software Engineer" width="100%"/>
-  </a>
-
+  <p align="center">
+    <a href="https://alber-ashraf.github.io">
+      <img src="assets/banner.svg" alt="Alber Ashraf – Software Engineer" width="100%"/>
+    </a>
+  </p>
   <a href="https://alber-ashraf.github.io">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Enterprise+Product+Engineering;Full-Stack+.NET+9+%2B+Angular+21;Clean+Architecture%2C+DDD%2C+CQRS;SQL+Server+Performance+Tuning;Cloud+Backends+%26+S3+Media+Streaming" alt="Typing SVG" />
   </a>
